@@ -34,5 +34,5 @@ Desenvolvido por [Thyago Santorini](https://github.com/thyagosantorini).
 
 
 
-!\[Screenshot do Projeto](images/screenshot.png)
+![Screenshot do Projeto](images/screenshot.png)
 
