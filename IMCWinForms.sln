@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMCWinForms", "IMCWinForms\IMCWinForms.csproj", "{5F631600-82D5-41DA-BAE4-0CEC903590B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F631600-82D5-41DA-BAE4-0CEC903590B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F631600-82D5-41DA-BAE4-0CEC903590B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F631600-82D5-41DA-BAE4-0CEC903590B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F631600-82D5-41DA-BAE4-0CEC903590B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E31CB11-D5D1-4BCA-B9FB-7777C1F25621}
+	EndGlobalSection
+EndGlobal
